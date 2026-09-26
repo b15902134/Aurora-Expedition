@@ -35,7 +35,7 @@ MyApp 是一款使用 SwiftUI 製作的奇幻冒險遊戲示範專案。玩家�
 1. Clone 此儲存庫：
 
    ```bash
-   git clone https://github.com/b15902134/MyApp.git
+   git clone https://github.com/b15902134/Aurora-Expedition.git
    ```
 
 2. 使用 Xcode 開啟 `0.xcodeproj`。
@@ -67,4 +67,3 @@ MyApp/
 - 商店購買目前為示範流程，尚未串接正式 StoreKit 交易。
 - 帳號轉移使用本機編碼資料，尚未串接後端伺服器。
 - 專案包含音樂、字型及第三方美術素材；公開散布或商業使用前，請確認各素材的授權條款。
-
