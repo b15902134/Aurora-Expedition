@@ -1,0 +1,3536 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : ""
+          }
+        }
+      }
+    },
+    "-%lld" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "-%lld"
+          }
+        }
+      }
+    },
+    "#1" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "#1"
+          }
+        }
+      }
+    },
+    "%@" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "%@"
+          }
+        }
+      }
+    },
+    "%@ · Lv.%lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ · Lv.%2$lld"
+          }
+        },
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "%1$@ · Lv.%2$lld"
+          }
+        }
+      }
+    },
+    "%@ Fish" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "%@ Fish"
+          }
+        }
+      }
+    },
+    "%@ Gold" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "%@ Gold"
+          }
+        }
+      }
+    },
+    "%@ needs %@ more %@ (%@ / %@)." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ needs %2$@ more %3$@ (%4$@ / %5$@)."
+          }
+        },
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "%1$@ needs %2$@ more %3$@ (%4$@ / %5$@)."
+          }
+        }
+      }
+    },
+    "%@ Styles" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "%@ Styles"
+          }
+        }
+      }
+    },
+    "%@ 款式" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "%@ Styles"
+          }
+        }
+      }
+    },
+    "%@ 金幣" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "%@ Gold"
+          }
+        }
+      }
+    },
+    "%@ 魚" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "%@ Fish"
+          }
+        }
+      }
+    },
+    "%@，%lld%%" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@，%2$lld%%"
+          }
+        },
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "%1$@, %2$lld%%"
+          }
+        }
+      }
+    },
+    "%@還差 %@ %@（目前 %@／需要 %@）。" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@還差 %2$@ %3$@（目前 %4$@／需要 %5$@）。"
+          }
+        },
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "%1$@ needs %2$@ more %3$@ (have %4$@ / need %5$@)."
+          }
+        }
+      }
+    },
+    "%lld" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "%lld"
+          }
+        }
+      }
+    },
+    "%lld / %lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld / %2$lld"
+          }
+        },
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "%1$lld / %2$lld"
+          }
+        }
+      }
+    },
+    "%lld Fish" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "%lld Fish"
+          }
+        }
+      }
+    },
+    "%lld Gems" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "%lld Gems"
+          }
+        }
+      }
+    },
+    "%lld Substats · Lv.%lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld Substats · Lv.%2$lld"
+          }
+        },
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "%1$lld Substats · Lv.%2$lld"
+          }
+        }
+      }
+    },
+    "%lld 寶石" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "machine_translated",
+                  "value" : "%lld 寶石"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "machine_translated",
+                  "value" : "%lld 寶石"
+                }
+              },
+              "zero" : {
+                "stringUnit" : {
+                  "state" : "machine_translated",
+                  "value" : "%lld 寶石"
+                }
+              }
+            }
+          }
+        },
+        "en-US" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "machine_translated",
+                  "value" : "%lld Gem"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "machine_translated",
+                  "value" : "%lld Gems"
+                }
+              },
+              "zero" : {
+                "stringUnit" : {
+                  "state" : "machine_translated",
+                  "value" : "%lld Gems"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld 條" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "machine_translated",
+                  "value" : "%lld 條"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "machine_translated",
+                  "value" : "%lld 條"
+                }
+              },
+              "zero" : {
+                "stringUnit" : {
+                  "state" : "machine_translated",
+                  "value" : "%lld 條"
+                }
+              }
+            }
+          }
+        },
+        "en-US" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "machine_translated",
+                  "value" : "%lld Fish"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "machine_translated",
+                  "value" : "%lld Fish"
+                }
+              },
+              "zero" : {
+                "stringUnit" : {
+                  "state" : "machine_translated",
+                  "value" : "%lld Fish"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld/%lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld/%2$lld"
+          }
+        },
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "%1$lld/%2$lld"
+          }
+        }
+      }
+    },
+    "• %@ %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "• %1$@ %2$@"
+          }
+        },
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "• %@ %@"
+          }
+        }
+      }
+    },
+    "+%@" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "+%@"
+          }
+        }
+      }
+    },
+    "+%lld" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "+%lld"
+          }
+        }
+      }
+    },
+    "+%lld Fish" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "+%lld Fish"
+          }
+        }
+      }
+    },
+    "+%lld 條魚" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "+%lld fish"
+          }
+        }
+      }
+    },
+    "⚡ Lightning Warning" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "⚡ Lightning Warning"
+          }
+        }
+      }
+    },
+    "⚡ 落雷預警" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "⚡ Lightning Warning"
+          }
+        }
+      }
+    },
+    "❄ Freeze" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "❄ Freeze"
+          }
+        }
+      }
+    },
+    "❄ 凍結" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "❄ Freeze"
+          }
+        }
+      }
+    },
+    "🐙" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "🐙"
+          }
+        }
+      }
+    },
+    "🐟" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "🐟"
+          }
+        }
+      }
+    },
+    "🐠" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "🐠"
+          }
+        }
+      }
+    },
+    "🐡" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "🐡"
+          }
+        }
+      }
+    },
+    "🐬" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "🐬"
+          }
+        }
+      }
+    },
+    "💥" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "💥"
+          }
+        }
+      }
+    },
+    "💥 Explosion" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "💥 Explosion"
+          }
+        }
+      }
+    },
+    "💥 爆炸" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "💥 Explosion"
+          }
+        }
+      }
+    },
+    "🔥 Burn ×%lld" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "🔥 Burn ×%lld"
+          }
+        }
+      }
+    },
+    "🔥 Burn Damage" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "🔥 Burn Damage"
+          }
+        }
+      }
+    },
+    "🔥 灼燒 ×%lld" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "🔥 Burn ×%lld"
+          }
+        }
+      }
+    },
+    "🔥 灼燒傷害" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "🔥 Burn Damage"
+          }
+        }
+      }
+    },
+    "🦀" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "🦀"
+          }
+        }
+      }
+    },
+    "🦈" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "🦈"
+          }
+        }
+      }
+    },
+    "1 Pull · 200" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "1 Pull · 200"
+          }
+        }
+      }
+    },
+    "10 items added to your inventory" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "10 items added to your inventory"
+          }
+        }
+      }
+    },
+    "10 Pulls · 1,600" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "10 Pulls · 1,600"
+          }
+        }
+      }
+    },
+    "10 Pulls · 2,000" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "10 Pulls · 2,000"
+          }
+        }
+      }
+    },
+    "10 Skill Cards added to your collection" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "10 Skill Cards added to your collection"
+          }
+        }
+      }
+    },
+    "10 Skill Summons" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "10 Skill Summons"
+          }
+        }
+      }
+    },
+    "10 Summons" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "10 Summons"
+          }
+        }
+      }
+    },
+    "Account Management" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Account Management"
+          }
+        }
+      }
+    },
+    "Account Settings" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Account Settings"
+          }
+        }
+      }
+    },
+    "Achievement Complete" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Achievement Complete"
+          }
+        }
+      }
+    },
+    "Active %llds" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Active %llds"
+          }
+        }
+      }
+    },
+    "ATK · HP · CRIT" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "ATK · HP · CRIT"
+          }
+        }
+      }
+    },
+    "Aurora Summon" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Aurora Summon"
+          }
+        }
+      }
+    },
+    "Available" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Available"
+          }
+        }
+      }
+    },
+    "Back to Home" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Back to Home"
+          }
+        }
+      }
+    },
+    "Background Music" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Background Music"
+          }
+        }
+      }
+    },
+    "Battle rewards received" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Battle rewards received"
+          }
+        }
+      }
+    },
+    "Burn ×%lld" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Burn ×%lld"
+          }
+        }
+      }
+    },
+    "Cancel" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Cancel"
+          }
+        }
+      }
+    },
+    "Challenge Complete" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Challenge Complete"
+          }
+        }
+      }
+    },
+    "Challenge Failed" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Challenge Failed"
+          }
+        }
+      }
+    },
+    "Character" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Character"
+          }
+        }
+      }
+    },
+    "Character Name" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Character Name"
+          }
+        }
+      }
+    },
+    "Choose an equipment category first." : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Choose an equipment category first."
+          }
+        }
+      }
+    },
+    "Claim" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Claim"
+          }
+        }
+      }
+    },
+    "Claim All" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Claim All"
+          }
+        }
+      }
+    },
+    "Claimed" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Claimed"
+          }
+        }
+      }
+    },
+    "Combat Power" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Combat Power"
+          }
+        }
+      }
+    },
+    "Combat Power Down" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Combat Power Down"
+          }
+        }
+      }
+    },
+    "Combat Power Rankings" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Combat Power Rankings"
+          }
+        }
+      }
+    },
+    "Combat Power Up" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Combat Power Up"
+          }
+        }
+      }
+    },
+    "Combo %lld" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Combo %lld"
+          }
+        }
+      }
+    },
+    "Combo %lld, Dodge %lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Combo %1$lld, Dodge %2$lld"
+          }
+        },
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Combo %1$lld, Dodge %2$lld"
+          }
+        }
+      }
+    },
+    "Cooldown %llds" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Cooldown %llds"
+          }
+        }
+      }
+    },
+    "Copy Transfer Code" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Copy Transfer Code"
+          }
+        }
+      }
+    },
+    "Create Transfer Code" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Create Transfer Code"
+          }
+        }
+      }
+    },
+    "Current Account" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Current Account"
+          }
+        }
+      }
+    },
+    "Current Fish" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Current Fish"
+          }
+        }
+      }
+    },
+    "Current Player" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Current Player"
+          }
+        }
+      }
+    },
+    "Currently Equipped" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Currently Equipped"
+          }
+        }
+      }
+    },
+    "Defeat" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Defeat"
+          }
+        }
+      }
+    },
+    "Destroy %@" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Destroy %@"
+          }
+        }
+      }
+    },
+    "Destroy Equipment?" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Destroy Equipment?"
+          }
+        }
+      }
+    },
+    "Discard" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Discard"
+          }
+        }
+      }
+    },
+    "Dismantle" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Dismantle"
+          }
+        }
+      }
+    },
+    "Dodge %lld" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Dodge %lld"
+          }
+        }
+      }
+    },
+    "Done" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Done"
+          }
+        }
+      }
+    },
+    "Draw Skill Card · 200 Gems" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Draw Skill Card · 200 Gems"
+          }
+        }
+      }
+    },
+    "Duration %llds · Power ×%.1f" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Duration %1$llds · Power ×%2$.1f"
+          }
+        },
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Duration %1$llds · Power ×%2$.1f"
+          }
+        }
+      }
+    },
+    "Earned %lld Fish" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Earned %lld Fish"
+          }
+        }
+      }
+    },
+    "Enable Sound & Music" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Enable Sound & Music"
+          }
+        }
+      }
+    },
+    "Enemy type %lld" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Enemy type %lld"
+          }
+        }
+      }
+    },
+    "Enhance" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Enhance"
+          }
+        }
+      }
+    },
+    "Enter battle" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Enter battle"
+          }
+        }
+      }
+    },
+    "Equip" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Equip"
+          }
+        }
+      }
+    },
+    "Equip Highest-Star Item" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Equip Highest-Star Item"
+          }
+        }
+      }
+    },
+    "Equip Now" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Equip Now"
+          }
+        }
+      }
+    },
+    "Equipment Setup" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Equipment Setup"
+          }
+        }
+      }
+    },
+    "Equipment Slots" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Equipment Slots"
+          }
+        }
+      }
+    },
+    "Equipped" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Equipped"
+          }
+        }
+      }
+    },
+    "Expedition Console" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Expedition Console"
+          }
+        }
+      }
+    },
+    "Fish Leap" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Fish Leap"
+          }
+        }
+      }
+    },
+    "Flags: %lld" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Flags: %lld"
+          }
+        }
+      }
+    },
+    "FOX" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "FOX"
+          }
+        }
+      }
+    },
+    "Gain %lld Gold. This cannot be undone." : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Gain %lld Gold. This cannot be undone."
+          }
+        }
+      }
+    },
+    "Game settings and menu" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Game settings and menu"
+          }
+        }
+      }
+    },
+    "Game Systems" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Game Systems"
+          }
+        }
+      }
+    },
+    "Gear Details" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Gear Details"
+          }
+        }
+      }
+    },
+    "Go to Aurora Summon" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Go to Aurora Summon"
+          }
+        }
+      }
+    },
+    "Go to Aurora Summon: draw gear of different rarities" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Go to Aurora Summon: draw gear of different rarities"
+          }
+        }
+      }
+    },
+    "Go to Character Profile" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Go to Character Profile"
+          }
+        }
+      }
+    },
+    "Go to Store" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Go to Store"
+          }
+        }
+      }
+    },
+    "Incomplete" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Incomplete"
+          }
+        }
+      }
+    },
+    "Insufficient Resources" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Insufficient Resources"
+          }
+        }
+      }
+    },
+    "Kenney 資源包風格的北極探險者，戴著頭盔、戴著墨鏡、手持 Mac" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Kenney asset-pack-style Arctic explorer wearing a helmet and sunglasses, holding a Mac"
+          }
+        }
+      }
+    },
+    "Limited Offer" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Limited Offer"
+          }
+        }
+      }
+    },
+    "Lv. %lld" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Lv. %lld"
+          }
+        }
+      }
+    },
+    "Lv.%lld" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Lv.%lld"
+          }
+        }
+      }
+    },
+    "Lv.%lld · Duration %llds" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Lv.%1$lld · Duration %2$llds"
+          }
+        },
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Lv.%lld · Duration %llds"
+          }
+        }
+      }
+    },
+    "Lv.%lld · Main Stat %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Lv.%1$lld · Main Stat %2$@"
+          }
+        },
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Lv.%lld · Main Stat %@"
+          }
+        }
+      }
+    },
+    "Lv.%lld · Power %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Lv.%1$lld · Power %2$@"
+          }
+        },
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Lv.%lld · Power %@"
+          }
+        }
+      }
+    },
+    "Lv.%lld · 主詞條 %@" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Lv.%1$lld · 主詞條 %2$@"
+          }
+        },
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Lv.%lld · Primary Stat %@"
+          }
+        }
+      }
+    },
+    "Lv.%lld · 戰鬥力 %@" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Lv.%1$lld · 戰鬥力 %2$@"
+          }
+        },
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Lv.%lld · Combat Power %@"
+          }
+        }
+      }
+    },
+    "Lv.%lld · 持續 %lld 秒" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Lv.%1$lld · 持續 %2$lld 秒"
+          }
+        },
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Lv.%lld · %lld sec."
+          }
+        }
+      }
+    },
+    "Lv.%lld / %lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Lv.%1$lld / %2$lld"
+          }
+        },
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Lv.%lld / %lld"
+          }
+        }
+      }
+    },
+    "Lv.%lld/%lld · %@ %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Lv.%1$lld/%2$lld · %3$@ %4$@"
+          }
+        },
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Lv.%lld/%lld · %@ %@"
+          }
+        }
+      }
+    },
+    "Mac" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Mac"
+          }
+        }
+      }
+    },
+    "MACFOX" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "MACFOX"
+          }
+        }
+      }
+    },
+    "Main Stat  %@  %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Main Stat  %1$@  %2$@"
+          }
+        },
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Main Stat  %@  %@"
+          }
+        }
+      }
+    },
+    "Main Stat  %@ +%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Main Stat  %1$@ +%2$@"
+          }
+        },
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Main Stat  %@ +%@"
+          }
+        }
+      }
+    },
+    "Max" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Max"
+          }
+        }
+      }
+    },
+    "Max level reached" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Max level reached"
+          }
+        }
+      }
+    },
+    "Mute" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Mute"
+          }
+        }
+      }
+    },
+    "New Gear Acquired" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "New Gear Acquired"
+          }
+        }
+      }
+    },
+    "No equipment in this category." : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "No equipment in this category."
+          }
+        }
+      }
+    },
+    "No rewards this time" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "No rewards this time"
+          }
+        }
+      }
+    },
+    "No substats unlocked" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "No substats unlocked"
+          }
+        }
+      }
+    },
+    "North Star Equipment Pool" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "North Star Equipment Pool"
+          }
+        }
+      }
+    },
+    "Not Equipped" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Not Equipped"
+          }
+        }
+      }
+    },
+    "OK" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "OK"
+          }
+        }
+      }
+    },
+    "Paste Transfer Code" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Paste Transfer Code"
+          }
+        }
+      }
+    },
+    "PERFECT!" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "PERFECT!"
+          }
+        }
+      }
+    },
+    "Playing" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Playing"
+          }
+        }
+      }
+    },
+    "Polar explorer wearing a helmet and sunglasses, holding a Mac" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Polar explorer wearing a helmet and sunglasses, holding a Mac"
+          }
+        }
+      }
+    },
+    "Pull %lld · %lld to Hard Pity" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Pull %1$lld · %2$lld to Hard Pity"
+          }
+        },
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Pull %lld · %lld to Hard Pity"
+          }
+        }
+      }
+    },
+    "Purchase: Unlock Second Skill Slot" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Purchase: Unlock Second Skill Slot"
+          }
+        }
+      }
+    },
+    "Restore Account" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Restore Account"
+          }
+        }
+      }
+    },
+    "Return Home" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Return Home"
+          }
+        }
+      }
+    },
+    "Roald Amundsen · Lv.%lld" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Roald Amundsen · Lv.%lld"
+          }
+        }
+      }
+    },
+    "Sarasate Tracks" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Sarasate Tracks"
+          }
+        }
+      }
+    },
+    "Selected" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Selected"
+          }
+        }
+      }
+    },
+    "Single · 160" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Single · 160"
+          }
+        }
+      }
+    },
+    "Skill Card added to your collection" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Skill Card added to your collection"
+          }
+        }
+      }
+    },
+    "Skill Loadout" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Skill Loadout"
+          }
+        }
+      }
+    },
+    "Skill Points %lld · Slots %lld/%lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Skill Points %1$lld · Slots %2$lld/%3$lld"
+          }
+        },
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Skill Points %lld · Slots %lld/%lld"
+          }
+        }
+      }
+    },
+    "Skill Points: %lld" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Skill Points: %lld"
+          }
+        }
+      }
+    },
+    "Skill Pool" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Skill Pool"
+          }
+        }
+      }
+    },
+    "Skill Slots %lld/%lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Skill Slots %1$lld/%2$lld"
+          }
+        },
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Skill Slots %lld/%lld"
+          }
+        }
+      }
+    },
+    "Skill Summon" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Skill Summon"
+          }
+        }
+      }
+    },
+    "Stage %lld · Wave %lld/%lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Stage %1$lld · Wave %2$lld/%3$lld"
+          }
+        },
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Stage %1$lld · Wave %2$lld/%3$lld"
+          }
+        }
+      }
+    },
+    "Standard Bundles" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Standard Bundles"
+          }
+        }
+      }
+    },
+    "Start Level %lld" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Start Level %lld"
+          }
+        }
+      }
+    },
+    "Substats" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Substats"
+          }
+        }
+      }
+    },
+    "Summon Skill Cards, then equip them in Character Profile." : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Summon Skill Cards, then equip them in Character Profile."
+          }
+        }
+      }
+    },
+    "System Status" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "System Status"
+          }
+        }
+      }
+    },
+    "Tap a number to clear nearby ice" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Tap a number to clear nearby ice"
+          }
+        }
+      }
+    },
+    "Test purchases only. App Store payments can be added for release." : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Test purchases only. App Store payments can be added for release."
+          }
+        }
+      }
+    },
+    "Transfer Account" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Transfer Account"
+          }
+        }
+      }
+    },
+    "Unequip" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Unequip"
+          }
+        }
+      }
+    },
+    "Up to 20 characters. Saved automatically." : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Up to 20 characters. Saved automatically."
+          }
+        }
+      }
+    },
+    "Upgrade" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Upgrade"
+          }
+        }
+      }
+    },
+    "Upgrade Cost: %@ Gold" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Upgrade Cost: %@ Gold"
+          }
+        }
+      }
+    },
+    "Upgrade to Lv.%lld" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Upgrade to Lv.%lld"
+          }
+        }
+      }
+    },
+    "Upgrade with Skill Points (%lld)" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Upgrade with Skill Points (%lld)"
+          }
+        }
+      }
+    },
+    "Victory" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Victory"
+          }
+        }
+      }
+    },
+    "White polar explorer wearing sunglasses and a helmet, holding a Mac" : {
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "White polar explorer wearing sunglasses and a helmet, holding a Mac"
+          }
+        }
+      }
+    },
+    "Win reward: %lld×%lld base Fish + found Fish × %lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Win reward: %1$lld×%2$lld base Fish + found Fish × %3$lld"
+          }
+        },
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Win reward: %lld×%lld base Fish + found Fish × %lld"
+          }
+        }
+      }
+    },
+    "一鍵領取" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Claim All"
+          }
+        }
+      }
+    },
+    "丟棄" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Discard"
+          }
+        }
+      }
+    },
+    "主詞條  %@  %@" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "主詞條  %1$@  %2$@"
+          }
+        },
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Main Stat  %@  %@"
+          }
+        }
+      }
+    },
+    "主詞條  %@ +%@" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "主詞條  %1$@ +%2$@"
+          }
+        },
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Main Stat  %@ +%@"
+          }
+        }
+      }
+    },
+    "作用中 %llds" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Active %llds"
+          }
+        }
+      }
+    },
+    "冷卻 %llds" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Cooldown %llds"
+          }
+        }
+      }
+    },
+    "前往商店" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Go to Shop"
+          }
+        }
+      }
+    },
+    "前往極光召喚" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Go to Aurora Summon"
+          }
+        }
+      }
+    },
+    "前往極光召喚：抽取不同稀有度裝備" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Go to Aurora Summon: Draw equipment of varying rarity"
+          }
+        }
+      }
+    },
+    "前往角色檔案裝備" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Go to Character Profile Equipment"
+          }
+        }
+      }
+    },
+    "副詞條" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Sub Stats"
+          }
+        }
+      }
+    },
+    "副詞條 %lld 條 · Lv.%lld" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "副詞條 %1$lld 條 · Lv.%2$lld"
+          }
+        },
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "%1$lld Sub Stats · Lv.%2$lld"
+          }
+        }
+      }
+    },
+    "北極星裝備池" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Polaris Equipment Pool"
+          }
+        }
+      }
+    },
+    "十件裝備已加入裝備倉庫" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "10 items added to Equipment Storage"
+          }
+        }
+      }
+    },
+    "十張技能卡已加入技能收藏" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "10 Skill Cards added to Collection"
+          }
+        }
+      }
+    },
+    "十連 · 1,600" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "10× · 1,600"
+          }
+        }
+      }
+    },
+    "十連 · 2,000" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "10× · 2,000"
+          }
+        }
+      }
+    },
+    "十連召喚" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "10× Summon"
+          }
+        }
+      }
+    },
+    "升級" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Upgrade"
+          }
+        }
+      }
+    },
+    "升級消耗 %@ 金幣" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Upgrade Cost: %@ Gold"
+          }
+        }
+      }
+    },
+    "升級角色至 Lv.%lld" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Upgrade Character to Lv.%lld"
+          }
+        }
+      }
+    },
+    "卸下" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Unequip"
+          }
+        }
+      }
+    },
+    "取消" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Cancel"
+          }
+        }
+      }
+    },
+    "可使用" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Available"
+          }
+        }
+      }
+    },
+    "名稱最多 20 個字元，會自動保存。" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Names can be up to 20 characters and are saved automatically."
+          }
+        }
+      }
+    },
+    "單抽 · 160" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Single Draw · 160"
+          }
+        }
+      }
+    },
+    "單抽 · 200" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Single Draw · 200"
+          }
+        }
+      }
+    },
+    "回到首頁" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Return to Home"
+          }
+        }
+      }
+    },
+    "完成" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Done"
+          }
+        }
+      }
+    },
+    "將獲得 %lld 金幣，銷毀後無法復原。" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "You’ll receive %lld Gold. Dismantling can’t be undone."
+          }
+        }
+      }
+    },
+    "尚未裝備" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Not Equipped"
+          }
+        }
+      }
+    },
+    "尚未解鎖副詞條" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Substats Not Unlocked"
+          }
+        }
+      }
+    },
+    "已獲得戰鬥獎勵" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Battle Rewards Acquired"
+          }
+        }
+      }
+    },
+    "已裝備" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Equipped"
+          }
+        }
+      }
+    },
+    "已達星級最高等級" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Max Star Level Reached"
+          }
+        }
+      }
+    },
+    "已選取" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Selected"
+          }
+        }
+      }
+    },
+    "已領取" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Claimed"
+          }
+        }
+      }
+    },
+    "帳號管理" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Account Management"
+          }
+        }
+      }
+    },
+    "帳號設定" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Account Settings"
+          }
+        }
+      }
+    },
+    "帳號設置" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Account Settings"
+          }
+        }
+      }
+    },
+    "常規資源包" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Standard Resource Pack"
+          }
+        }
+      }
+    },
+    "強化" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Enhance"
+          }
+        }
+      }
+    },
+    "成功獎勵：%lld×%lld 基礎魚量 + 找到的魚數 × %lld" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "成功獎勵：%1$lld×%2$lld 基礎魚量 + 找到的魚數 × %3$lld"
+          }
+        },
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Victory Reward: %lld×%lld base fish + fish found × %lld"
+          }
+        }
+      }
+    },
+    "成就達成" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Achievement Unlocked"
+          }
+        }
+      }
+    },
+    "戰鬥力下降" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Combat Power Down"
+          }
+        }
+      }
+    },
+    "戰鬥力排行榜" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Combat Power Rankings"
+          }
+        }
+      }
+    },
+    "戰鬥力提升" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Combat Power Up"
+          }
+        }
+      }
+    },
+    "戰鬥失敗" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Battle Failed"
+          }
+        }
+      }
+    },
+    "戰鬥成功" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Battle Won"
+          }
+        }
+      }
+    },
+    "技能十連召喚" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "10× Skill Summon"
+          }
+        }
+      }
+    },
+    "技能卡已加入技能收藏" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Skill Card added to Collection"
+          }
+        }
+      }
+    },
+    "技能卡池" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Skill Card Pool"
+          }
+        }
+      }
+    },
+    "技能召喚" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Skill Summon"
+          }
+        }
+      }
+    },
+    "技能欄位 %lld/%lld" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "技能欄位 %1$lld/%2$lld"
+          }
+        },
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Skill Slots %lld/%lld"
+          }
+        }
+      }
+    },
+    "技能裝備" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Skill Loadout"
+          }
+        }
+      }
+    },
+    "技能點 %lld · 欄位 %lld/%lld" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "技能點 %1$lld · 欄位 %2$lld/%3$lld"
+          }
+        },
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Skill Points %lld · Slots %lld/%lld"
+          }
+        }
+      }
+    },
+    "技能點：%lld" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Skill Points: %lld"
+          }
+        }
+      }
+    },
+    "技能點升級（%lld）" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Skill Point Upgrade (%lld)"
+          }
+        }
+      }
+    },
+    "抽取後以召喚動畫展示技能卡，再到角色檔案裝備。" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "After drawing, view Skill Cards in the summon animation, then equip them in your Character Profile."
+          }
+        }
+      }
+    },
+    "抽取技能卡 · 200 寶石" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Draw Skill Card · 200 Gems"
+          }
+        }
+      }
+    },
+    "持續 %lld 秒 · 強度 ×%.1f" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "持續 %1$lld 秒 · 強度 ×%2$.1f"
+          }
+        },
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "%lld sec. · Power ×%.1f"
+          }
+        }
+      }
+    },
+    "持續 %lld 秒 · 效果強度 ×%.1f" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "持續 %1$lld 秒 · 效果強度 ×%2$.1f"
+          }
+        },
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "%lld sec. · Effect Power ×%.1f"
+          }
+        }
+      }
+    },
+    "挑戰失敗" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Challenge Failed"
+          }
+        }
+      }
+    },
+    "播放中" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Playing"
+          }
+        }
+      }
+    },
+    "敵人種類 %lld" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Enemy Type %lld"
+          }
+        }
+      }
+    },
+    "旗子：%lld" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Flags: %lld"
+          }
+        }
+      }
+    },
+    "未完成" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Incomplete"
+          }
+        }
+      }
+    },
+    "本次沒有獎勵" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "No rewards this time"
+          }
+        }
+      }
+    },
+    "極光召喚" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Aurora Summon"
+          }
+        }
+      }
+    },
+    "灼燒 ×%lld" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Burn ×%lld"
+          }
+        }
+      }
+    },
+    "獲得 %lld 條魚" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Earned %lld Fish"
+          }
+        }
+      }
+    },
+    "獲得新裝備" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "New Equipment Acquired"
+          }
+        }
+      }
+    },
+    "白色蓬鬆阿蒙森，戴著墨鏡、左手拿 Mac、戴著資源包頭盔" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Fluffy white Amundsen wearing sunglasses, holding a Mac in the left hand, and wearing an asset-pack helmet"
+          }
+        }
+      }
+    },
+    "目前帳號" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Current Account"
+          }
+        }
+      }
+    },
+    "目前為測試購買，正式上架時可接入 App Store 付款。" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Purchases are for testing. App Store payments can be added for the release."
+          }
+        }
+      }
+    },
+    "目前玩家" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Current Player"
+          }
+        }
+      }
+    },
+    "目前穿戴" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Currently Equipped"
+          }
+        }
+      }
+    },
+    "目前魚資源" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Current Fish"
+          }
+        }
+      }
+    },
+    "確定" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "OK"
+          }
+        }
+      }
+    },
+    "確認銷毀裝備？" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Dismantle Equipment?"
+          }
+        }
+      }
+    },
+    "穿戴" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Equip"
+          }
+        }
+      }
+    },
+    "立即裝備" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Equip Now"
+          }
+        }
+      }
+    },
+    "第 %lld 抽 · 距離硬保底 %lld 抽" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "第 %1$lld 抽 · 距離硬保底 %2$lld 抽"
+          }
+        },
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Pull %lld · %lld Until Hard Pity"
+          }
+        }
+      }
+    },
+    "第 %lld 關 · Wave %lld/%lld" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "第 %1$lld 關 · Wave %2$lld/%3$lld"
+          }
+        },
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Stage %lld · Wave %lld/%lld"
+          }
+        }
+      }
+    },
+    "系統狀態" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "System Status"
+          }
+        }
+      }
+    },
+    "綜合戰鬥力" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Combat Power"
+          }
+        }
+      }
+    },
+    "繼承帳號" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Transfer Account"
+          }
+        }
+      }
+    },
+    "背景音樂" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Background Music"
+          }
+        }
+      }
+    },
+    "薩拉沙特曲目" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Sarasate Tracks"
+          }
+        }
+      }
+    },
+    "裝備" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Equipment"
+          }
+        }
+      }
+    },
+    "裝備本次最高星裝備" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Equip Highest-Star Item"
+          }
+        }
+      }
+    },
+    "裝備欄位" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Equipment Slots"
+          }
+        }
+      }
+    },
+    "裝備詳情" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Equipment Details"
+          }
+        }
+      }
+    },
+    "裝備配置" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Equipment Loadout"
+          }
+        }
+      }
+    },
+    "複製轉移碼" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Copy Transfer Code"
+          }
+        }
+      }
+    },
+    "角色名稱" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Character Name"
+          }
+        }
+      }
+    },
+    "角色資料" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Character Profile"
+          }
+        }
+      }
+    },
+    "課金商品：解鎖第二技能欄位" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Paid Item: Unlock Second Skill Slot"
+          }
+        }
+      }
+    },
+    "請先選擇裝備分類。" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Select an equipment category first."
+          }
+        }
+      }
+    },
+    "貼上轉移碼" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Paste Transfer Code"
+          }
+        }
+      }
+    },
+    "資源不足" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Insufficient Resources"
+          }
+        }
+      }
+    },
+    "超值限定" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Limited Offer"
+          }
+        }
+      }
+    },
+    "轉移帳號" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Transfer Account"
+          }
+        }
+      }
+    },
+    "返回首頁" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Return to Home"
+          }
+        }
+      }
+    },
+    "這個分類目前沒有裝備。" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "No equipment in this category yet."
+          }
+        }
+      }
+    },
+    "通關成功" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Stage Cleared"
+          }
+        }
+      }
+    },
+    "連擊 %lld" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Combo %lld"
+          }
+        }
+      }
+    },
+    "連擊 %lld，閃避 %lld。%@" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "連擊 %1$lld，閃避 %2$lld。%3$@"
+          }
+        },
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Combo %lld, Dodge %lld.%@"
+          }
+        }
+      }
+    },
+    "連擊提高 Mac 傷害；閃避是成功避開敵方子彈。%@" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Combo increases Mac damage; Dodge means successfully avoiding enemy bullets.%@"
+          }
+        }
+      }
+    },
+    "進入戰鬥畫面" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Enter the battle screen"
+          }
+        }
+      }
+    },
+    "遊戲系統" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Game Systems"
+          }
+        }
+      }
+    },
+    "遊戲設定與選單" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Game Settings & Menu"
+          }
+        }
+      }
+    },
+    "遠征控制台" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Expedition Console"
+          }
+        }
+      }
+    },
+    "銷毀" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Destroy"
+          }
+        }
+      }
+    },
+    "銷毀 %@" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Destroy %@"
+          }
+        }
+      }
+    },
+    "閃避 %lld" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Dodge %lld"
+          }
+        }
+      }
+    },
+    "開始第 %lld 關" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Start Stage %lld"
+          }
+        }
+      }
+    },
+    "開始繼承帳號" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Start Account Migration"
+          }
+        }
+      }
+    },
+    "開始轉移帳號" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Start Account Transfer"
+          }
+        }
+      }
+    },
+    "開啟音效與音樂" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Enable Sound & Music"
+          }
+        }
+      }
+    },
+    "靜音" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Mute"
+          }
+        }
+      }
+    },
+    "領取" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Claim"
+          }
+        }
+      }
+    },
+    "魚群躍出" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Fish Leap Out"
+          }
+        }
+      }
+    },
+    "點擊數字可快速開啟周圍冰塊" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en-US" : {
+          "variations" : {
+            "device" : {
+              "applevision" : {
+                "stringUnit" : {
+                  "state" : "machine_translated",
+                  "value" : "Tap a number to quickly open the surrounding ice."
+                }
+              },
+              "ipad" : {
+                "stringUnit" : {
+                  "state" : "machine_translated",
+                  "value" : "Tap a number to quickly open the surrounding ice."
+                }
+              },
+              "iphone" : {
+                "stringUnit" : {
+                  "state" : "machine_translated",
+                  "value" : "Tap a number to quickly open the surrounding ice."
+                }
+              },
+              "mac" : {
+                "stringUnit" : {
+                  "state" : "machine_translated",
+                  "value" : "Click a number to quickly open the surrounding ice."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "machine_translated",
+                  "value" : "Select a number to quickly open the surrounding ice."
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.3"
+}

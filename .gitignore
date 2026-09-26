@@ -1,0 +1,10 @@
+.DS_Store
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xcuserdatad/
+.swiftpm/xcode/package.xcworkspace/xcuserdata/
+DisabledResources/
+Resource Pack/
+
